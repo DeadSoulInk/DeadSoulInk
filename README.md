@@ -47,10 +47,6 @@ $\color{rgb(94, 94, 94)}{\textsf{fri}}\color{rgb(89, 89, 89)}{\textsf{end!}}$ $\
 </p>
 
 
-<br>
-
-
-<br>
 
 <img width="1200" height="150" alt="image" src="https://github.com/user-attachments/assets/4e541fde-f6b2-48b9-b5d0-75a09e24f054" />
 
