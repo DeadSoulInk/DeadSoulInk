@@ -24,6 +24,8 @@ $\color{rgb(29, 29, 29)}{\textsf{Wo}}\color{rgb(33, 33, 33)}{\textsf{uld}}$ $\co
   [Cardd](https://evyhso.carrd.co/) ♧
   [atabook](https://deadink.atabook.org/) ♧
 
+$\color{rgb(29, 29, 29)}{\textsf{C+}}\color{rgb(33, 33, 33)}{\textsf{H}}$ $\color{rgb(46, 46, 46)}{\textsf{.}}\color{rgb(41, 41, 41)}{\textsf{W2}}$ $\color{rgb(43, 43, 43)}{\textsf{i}}\color{rgb(48, 48, 48)}{\textsf{. afk}}$
+
 </div>
 
 <p align="center">
@@ -36,10 +38,6 @@ $\color{rgb(94, 94, 94)}{\textsf{fri}}\color{rgb(89, 89, 89)}{\textsf{end!}}$ $\
 
 </div>
 
-<p align="center">  
-
-
-<br>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile"
