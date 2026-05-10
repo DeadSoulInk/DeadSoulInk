@@ -36,14 +36,14 @@ $\color{rgb(94, 94, 94)}{\textsf{fri}}\color{rgb(89, 89, 89)}{\textsf{end!}}$ $\
 
 </div>
 
-<p align="center">
-<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/ff18c908-3bef-48ff-bde6-4c78f93c68ce" />
+
+
+<br>
 
 
 
 
 <br>
-
 
 
 <br>
