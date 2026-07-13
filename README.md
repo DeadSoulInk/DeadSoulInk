@@ -30,12 +30,10 @@ $\color{rgb(29, 29, 29)}{\textsf{C+}}\color{rgb(33, 33, 33)}{\textsf{H}}$ $\colo
 </div>
 
 <p align="center">
-$\color{rgb(128, 128, 128)}{\textsf{M}}\color{rgb(115, 115, 115)}{\textsf{y}}$ $\color{rgb(107, 107, 107)}{\textsf{de}}\color{rgb(99, 99, 99)}{\textsf{ar}}$ 
-$\color{rgb(94, 94, 94)}{\textsf{fri}}\color{rgb(89, 89, 89)}{\textsf{end!}}$ $\color{rgb(82, 82, 82)}{\textsf{:}}$
+
 
 <div align="center">
   
-  [Mackesito](https://github.com/blooddamage) ♡ 
 
 </div>
 
